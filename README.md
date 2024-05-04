@@ -26,3 +26,7 @@ Semester 4 Batch30 GIKI date:2022
 
 <img width="387" alt="Screenshot 2024-01-24 at 10 15 26 PM" src="https://github.com/ammar313-cs/Project_sem4/assets/78053144/08822b8c-7056-43fe-b5a5-65f5751498d8">
 <img width="386" alt="Screenshot 2024-01-24 at 10 18 56 PM" src="https://github.com/ammar313-cs/Project_sem4/assets/78053144/f2636a3c-1171-4fb5-8742-cf7003c99794">
+![USE_CASE](https://github.com/ammar313-cs/Giki-Ride-Booking-App-Semester-4-Project-for-DB-and-SE/assets/78053144/ff48d7cd-e280-4f48-8d5f-41c2689ea84e)
+![WhatsApp Image 2022-06-01 at 12 22 22 AM](https://github.com/ammar313-cs/Giki-Ride-Booking-App-Semester-4-Project-for-DB-and-SE/assets/78053144/76d27240-6a6e-42ba-af65-0a9cf0fa3ceb)
+![class_dig_orig](https://github.com/ammar313-cs/Giki-Ride-Booking-App-Semester-4-Project-for-DB-and-SE/assets/78053144/f690efe9-7bad-4fda-a9e9-ffd0c26127e0)
+![er_dig](https://github.com/ammar313-cs/Giki-Ride-Booking-App-Semester-4-Project-for-DB-and-SE/assets/78053144/8f5cc1a7-18b7-4eda-bfd1-d89210dcc550)
